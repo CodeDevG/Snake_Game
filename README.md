@@ -12,7 +12,7 @@ This is my first game in Java,if you have any advice or problem please contact m
 
 We have 3 files and 2 sounds:
 
-:dart: 1)First File: The first file is "Snake_main" which contains the main method to starts the game.
+:dart: 1)First File: The first file is "Snake_Main" which contains the main method to starts the game.
                      In this file we have an istance of "Game_Window" class...it contains all methods
                      to open the game frame.
 
